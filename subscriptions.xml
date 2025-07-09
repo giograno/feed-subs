@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for me@giograno.com</title>
+    <dateCreated>Wed, 09 Jul 2025 07:59:42 +0000</dateCreated>
+    <ownerEmail>me@giograno.com</ownerEmail>
+  </head>
+  <body>
+<outline text="Paul Graham" title="Paul Graham" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/"/>
+<outline text="Python Insider" title="Python Insider" type="rss" xmlUrl="http://feeds.feedburner.com/PythonInsider" htmlUrl="https://pythoninsider.blogspot.com/"/>
+<outline text="Jeff Wilcox" title="Jeff Wilcox" type="rss" xmlUrl="http://feeds.feedburner.com/jeffwilcox" htmlUrl="http://www.jeff.wilcox.name/"/>
+<outline text="fnordig" title="fnordig" type="rss" xmlUrl="https://fnordig.de/feed.xml" htmlUrl="https://fnordig.de"/>
+<outline text="Rob Allen" title="Rob Allen" type="rss" xmlUrl="https://akrabat.com/feed/" htmlUrl="https://akrabat.com"/>
+<outline text="Rust Blog" title="Rust Blog" type="rss" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+<outline text="Julia Evans" title="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca"/>
+<outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com"/>
+<outline text="Thorsten Ball" title="Thorsten Ball" type="rss" xmlUrl="https://thorstenball.com/atom.xml" htmlUrl="http://thorstenball.com/"/>
+<outline text="Uses This" title="Uses This" type="rss" xmlUrl="https://usesthis.com/feed.atom" htmlUrl="https://usesthis.com/"/>
+<outline text="Wait But Why" title="Wait But Why" type="rss" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/"/>
+<outline text="The Effective Engineer" title="The Effective Engineer" type="rss" xmlUrl="http://www.effectiveengineer.com/atom.xml" htmlUrl="http://www.effectiveengineer.com/"/>
+<outline text="apenwarr" title="apenwarr" type="rss" xmlUrl="https://apenwarr.ca/log/rss.php" htmlUrl="https://apenwarr.ca/log/"/>
+<outline text="All Things Distributed" title="All Things Distributed" type="rss" xmlUrl="https://www.allthingsdistributed.com/atom.xml" htmlUrl="https://www.allthingsdistributed.com/"/>
+<outline text="Mike McQuaid" title="Mike McQuaid" type="rss" xmlUrl="https://mikemcquaid.com/atom.xml" htmlUrl="https://mikemcquaid.com/"/>
+<outline text="More To That" title="More To That" type="rss" xmlUrl="https://moretothat.com/feed/" htmlUrl="https://moretothat.com"/>
+<outline text="Andrew Kelley" title="Andrew Kelley" type="rss" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="https://andrewkelley.me/"/>
+<outline text="Farnam Street" title="Farnam Street" type="rss" xmlUrl="https://fs.blog/feed/" htmlUrl="https://fs.blog/"/>
+<outline text="Michael Stapelbergs" title="Michael Stapelbergs" type="rss" xmlUrl="https://michael.stapelberg.ch/feed.xml" htmlUrl="https://michael.stapelberg.ch/"/>
+<outline text="Peter Norvig" title="Peter Norvig" type="rss" xmlUrl="https://norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com"/>
+<outline text="arp242.net" title="arp242.net" type="rss" xmlUrl="https://www.arp242.net/feed.xml" htmlUrl="https://www.arp242.net/"/>
+<outline text="Armin Ronacher's Thoughts and Writings" title="Armin Ronacher's Thoughts and Writings" type="rss" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org/"/>
+<outline text="benkuhn.net" title="benkuhn.net" type="rss" xmlUrl="https://www.benkuhn.net/index.xml" htmlUrl="https://www.benkuhn.net/"/>
+<outline text="Notes on software development" title="Notes on software development" type="rss" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/"/>
+<outline text="Drew DeVault's blog" title="Drew DeVault's blog" type="rss" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com"/>
+<outline text="Luca Palmieri" title="Luca Palmieri" type="rss" xmlUrl="https://www.lpalmieri.com/rss.xml" htmlUrl="https://lpalmieri.com"/>
+<outline text="Irrational Exuberance" title="Irrational Exuberance" type="rss" xmlUrl="https://lethain.com/feeds.xml" htmlUrl="https://lethain.com/"/>
+<outline text="The Go Blog" title="The Go Blog" type="rss" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom"/>
+<outline text="Matteo Mazzarolo's blog" title="Matteo Mazzarolo's blog" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml" htmlUrl="https://mmazzarolo.com"/>
+<outline text="Mitchell Hashimoto" title="Mitchell Hashimoto" type="rss" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com/writing"/>
+<outline text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" type="rss" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl="https://blog.bytebytego.com"/>
+<outline text="Fatih Arslan" title="Fatih Arslan" type="rss" xmlUrl="https://arslan.io/rss/" htmlUrl="https://arslan.io/"/>
+<outline text="Steve Klabnik" title="Steve Klabnik" type="rss" xmlUrl="https://steveklabnik.com/feed.xml" htmlUrl="https://steveklabnik.com/"/>
+<outline text="John McBride" title="John McBride" type="rss" xmlUrl="https://johncodes.com/index.xml" htmlUrl="https://johncodes.com/"/>
+<outline text="Register Spill" title="Register Spill" type="rss" xmlUrl="https://registerspill.thorstenball.com/feed" htmlUrl="https://registerspill.thorstenball.com"/>
+<outline text="Andrea Bergia" title="Andrea Bergia" type="rss" xmlUrl="https://andreabergia.com/index.xml" htmlUrl="https://andreabergia.com/"/>
+<outline text="Steph Ango" title="Steph Ango" type="rss" xmlUrl="https://stephango.com/feed.xml" htmlUrl="https://stephango.com/"/>
+<outline text="Posts on λ ryan. himmelwright. net" title="Posts on λ ryan. himmelwright. net" type="rss" xmlUrl="https://ryan.himmelwright.net/post/index.xml" htmlUrl="https://ryan.himmelwright.net/"/>
+<outline text="seangoedecke.com RSS feed" title="seangoedecke.com RSS feed" type="rss" xmlUrl="https://www.seangoedecke.com/rss.xml" htmlUrl="https://seangoedecke.com"/>
+<outline text="&lt;antirez&gt;" title="&lt;antirez&gt;" type="rss" xmlUrl="https://antirez.com/rss" htmlUrl="http://antirez.com"/>
+  </body>
+</opml>
